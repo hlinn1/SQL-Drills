@@ -11,46 +11,34 @@
 
 ## SQL Commands Used 
 
-#### After exploring different SQL statements and commands in this project,I'm comfortable with the following SQL commands: 
-SELECT - extracts data from a database
-UPDATE - updates data in a database
-DELETE - deletes data from a database
-INSERT INTO - inserts new data into a database
-CREATE DATABASE - creates a new database
-ALTER DATABASE - modifies a database
-CREATE TABLE - creates a new table
-ALTER TABLE - modifies a table
-DROP TABLE - deletes a table
+#### After exploring different SQL statements and commands in this project,I'm comfortable with the following SQL commands, clauses, operators, keywords and functions: 
 
-CREATE DATABASE
-USE DATABASE 
-CREATE TABLE
-ALTER TABLE 
-DROP TABLE
-SELECT
-FROM
-WHERE 
-HAVING
-LIKE
-ORDER BY
-GROUP BY
-IN
-UPDATE 
-INSERT INTO
-ADD 
-DROP
-SET 
-JOIN (INNER JOIN, LEFT JOIN, RIGHT JOIN, JOIN multiple tables)
-Subqueries
-LIMIT 
-CREATE VIEW
-
-
-COUNT()
-SUM()
-COUNT(DISTINCT())
-
-
+- ALTER TABLE 
+- SELECT
+- FROM
+- WHERE 
+- HAVING
+- LIKE
+- AND/OR/NOT
+- ORDER BY
+- ASC/DESC
+- GROUP BY
+- IN
+- UPDATE 
+- INSERT INTO
+- ADD 
+- DROP
+- SET 
+- LIMIT 
+- CREATE VIEW
+- DROP VIEW 
+- DISTINCT
+- COUNT()/AVG()/SUM()
+- JOIN (INNER JOIN, LEFT JOIN, RIGHT JOIN, JOIN multiple tables)
+- MIN()/MAX()
+- WILDCARD CHARACTERS
+- ALIASES
+- SUBQUERIES
 
 ## Appendix: List of Tables in the Sakila DB
 
